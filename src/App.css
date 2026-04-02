@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; margin: 20px; background: #f0f2f5; }
+h1, h2 { color: #333; }
+nav { margin: 15px 0; }
+nav a { margin-right: 15px; color: #007bff; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+th { background: #007bff; color: white; padding: 8px; }
+td { padding: 8px; border: 1px solid #ccc; }
+tr:nth-child(even) { background: #f9f9f9; }
+button { padding: 6px 14px; background: #28a745; color: white; border: none; cursor: pointer; }
+button:hover { background: #218838; }
+select { padding: 5px; }
+ul { list-style: none; padding: 0; }
+ul li { background: white; margin: 8px 0; padding: 12px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+
